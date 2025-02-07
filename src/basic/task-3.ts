@@ -1,4 +1,2 @@
-let mixType: string | number;
-
-type EnableOrDisable = "enable" | "desable";
-let value: EnableOrDisable;
+let value: string | number;
+let status: "enable" | "disable";
